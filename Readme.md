@@ -7,6 +7,10 @@ It will create an empty repository inside the folder.
 <br>
 It will add the file to the commit area.
 <br></br>
+```git add .```
+<br>
+It will add all files to the commit area.
+<br></br>
 ```git status``` 
 <br>
 It will view which files are available for the commit.
@@ -23,7 +27,11 @@ You’ll commit to your local repository.
 <br>
 It will connect your remote repository to the local repository.
 <br></br>
-```git push -u "nome na branch"```
+```git push -u branch name```
 <br>
-Push the repository on GITHUB
+First push to the repository on GITHUB
+<br></br>
+```git push branch name```
+<br>
+First push to the repository on GITHUB
 
