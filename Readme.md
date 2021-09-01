@@ -1,16 +1,29 @@
-# Comandos para usar o Git
-## git init 
-Vai criar um repositório vazio dentro da pasta.
+# Commands to use git
+```git init```
+<br>
+It will create an empty repository inside the folder.
+<br></br>
 ```git add Nome do arquivo```
-Vai adicionar o arquivo para a área de commit.
+<br>
+It will add the file to the commit area.
+<br></br>
 ```git status``` 
-Vai visualizar quais arquivos estãodisponíveis para o commit.
+<br>
+It will view which files are available for the commit.
+<br></br>
 ```git branch -M Novo nome da branch```
-Vai mudar o nome da branch atual.
+<br>
+It will rename the current branch.
+<br></br>
 ```git comit -m "mensagem do commit"```
-Vai fazer um commit no seu repositório local.
+<br>
+You’ll commit to your local repository.
+<br></br>
 ```git remote add origin link do seu repositório```
-Vai ligar seu repositório remoto para o repositório local.
+<br>
+It will connect your remote repository to the local repository.
+<br></br>
 ```git push -u "nome na branch"```
-Vai dar push no repositório no GITHUB
+<br>
+Push the repository on GITHUB
 
