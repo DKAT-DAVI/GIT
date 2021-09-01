@@ -11,4 +11,6 @@ Vai mudar o nome da branch atual.
 Vai fazer um commit no seu repositório local.
 ## git remote add origin <link do seu repositório>
 Vai ligar seu repositório remoto para o repositório local.
+## git push -u "nome na branch"
+Vai dar push no repositório no GITHUB
 
