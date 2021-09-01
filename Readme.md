@@ -33,5 +33,5 @@ First push to the repository on GITHUB
 <br></br>
 ```git push branch name```
 <br>
-First push to the repository on GITHUB
+Push to the repository on GITHUB
 
